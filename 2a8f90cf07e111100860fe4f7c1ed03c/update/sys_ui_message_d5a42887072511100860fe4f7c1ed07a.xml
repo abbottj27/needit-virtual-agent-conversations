@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Virtual Agent</application>
+        <code/>
+        <commented_message/>
+        <key>you have no open needit records.</key>
+        <language>en</language>
+        <message>You have no open NeedIt records.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-30 15:50:17</sys_created_on>
+        <sys_id>d5a42887072511100860fe4f7c1ed07a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>you have no open needit records.</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_11264_needit_vir">2a8f90cf07e111100860fe4f7c1ed03c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">2a8f90cf07e111100860fe4f7c1ed03c</sys_scope>
+        <sys_update_name>sys_ui_message_d5a42887072511100860fe4f7c1ed07a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-30 15:50:17</sys_updated_on>
+    </sys_ui_message>
+</record_update>
